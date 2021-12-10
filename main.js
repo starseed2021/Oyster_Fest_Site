@@ -13,7 +13,6 @@ introText.textContent = "Whoever consumes the most oysters goes home with the gr
 const secondHeading = document.createElement("p");
 secondHeading.textContent = "Fun Facts About Oysters:"
 
-// Need more thorough explaination of this logic
 // list of fact-strings
 const oysterFacts = [
    "Humans have be cultivating and eating oysters for thousands of years",
@@ -42,7 +41,6 @@ const state = {
 };
 
 // addOyster Event Handler
-
 const addOyster = (event) => {
     console.log("in addOyster", event);
     const newOyster = document.createElement("span");
