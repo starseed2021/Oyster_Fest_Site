@@ -15,7 +15,7 @@ secondHeading.textContent = "Fun Facts About Oysters:"
 
 // list of fact-strings
 const oysterFacts = [
-   "Humans have be cultivating and eating oysters for thousands of years",
+   "Humans have been cultivating and eating oysters for thousands of years",
    "Oysters change their gender once or more during their lifetime",
    "Oysters are rich in vitamins (B1, B3, B12, & D) and nutrients (copper, selenium, magnesium, phosophorous, & zinc)",
    "Similar to wine 🍷, oysters have a variety of flavor profiles",
